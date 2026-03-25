@@ -86,10 +86,15 @@ export default function Home() {
     <main className="min-h-screen bg-[#0a0f1f] text-white">
       <header className="sticky top-0 z-50 border-b border-white/10 bg-[#0a0f1f]/80 backdrop-blur-xl">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 md:px-10">
-          <a href="#" className="text-lg font-semibold tracking-wide">
-            Saoussen Rzig
-          </a>
+          <a href="#" className="flex items-center gap-3">
+            <div className="flex h-11 w-11 items-center justify-center rounded-full border border-[#d6b25e] text-[#d6b25e] text-sm font-semibold tracking-wide">
+              SR
+            </div>
 
+            <span className="hidden text-base font-medium text-white/80 md:block">
+              Saoussen Rzig
+            </span>
+          </a>
           <nav className="hidden items-center gap-6 text-sm text-white/70 md:flex">
             <a href="#projets" className="transition hover:text-white">
               Projets
