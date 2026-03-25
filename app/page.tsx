@@ -146,21 +146,20 @@ export default function Home() {
               </a>
 
               <a
-                href="https://github.com/SaoussenBayar"
-                target="_blank"
-                rel="noreferrer"
+                href="/cv/CV_Saoussen_Rzig_PREMIUM.pdf"
+                download
                 className="rounded-full border border-white/15 bg-white/5 px-6 py-3 font-semibold transition hover:bg-white hover:text-black"
               >
-                GitHub
+                Télécharger mon CV
               </a>
 
               <a
-                href="https://linkedin.com/in/saoussenRZIG"
+                href="/cv/CV_Saoussen_Rzig_PREMIUM.pdf"
                 target="_blank"
                 rel="noreferrer"
                 className="rounded-full border border-white/15 bg-white/5 px-6 py-3 font-semibold transition hover:bg-white hover:text-black"
               >
-                LinkedIn
+                Voir mon CV
               </a>
             </div>
 
@@ -174,14 +173,32 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="relative">
-            <div className="absolute -inset-4 rounded-[40px] bg-[#6c4df6]/20 blur-3xl" />
+          <div className="relative mx-auto w-full max-w-md">
+            <div className="absolute -inset-6 rounded-[40px] bg-[#6c4df6]/20 blur-3xl" />
             <div className="relative overflow-hidden rounded-[32px] border border-white/10 bg-white/5 p-4 shadow-2xl backdrop-blur">
               <img
-                src="/images/bien-etre.png"
-                alt="Projet bien-être"
-                className="w-full rounded-[24px] object-cover"
+                src="/images/saoussen.png"
+                alt="Photo de Saoussen Rzig"
+                className="h-[520px] w-full rounded-[24px] object-cover object-center"
               />
+            </div>
+
+            <div className="absolute -bottom-6 left-1/2 w-[85%] -translate-x-1/2 rounded-[24px] border border-white/10 bg-[#111831]/90 p-5 shadow-xl backdrop-blur">
+              <p className="text-lg font-semibold">Saoussen Rzig</p>
+              <p className="mt-1 text-sm text-white/70">
+                Développeuse Full-Stack & Mobile
+              </p>
+              <div className="mt-3 flex flex-wrap gap-2">
+                <span className="rounded-full bg-white/10 px-3 py-1 text-xs text-white/85">
+                  Symfony
+                </span>
+                <span className="rounded-full bg-white/10 px-3 py-1 text-xs text-white/85">
+                  Angular
+                </span>
+                <span className="rounded-full bg-white/10 px-3 py-1 text-xs text-white/85">
+                  Flutter
+                </span>
+              </div>
             </div>
           </div>
         </div>
