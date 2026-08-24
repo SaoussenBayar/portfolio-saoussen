@@ -1,40 +1,66 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 👩‍💻 Saoussen Rzig — Full-Stack & Mobile Developer
 
-## Getting Started
+Welcome to my portfolio repository.
 
-First, run the development server:
+🌐 **Live Portfolio:**  
+👉 https://portfolio-saoussen.vercel.app/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 About Me
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+I am a Junior Full-Stack & Mobile Developer specialized in:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Angular
+- Symfony (PHP)
+- Flutter
+- UI/UX Design
 
-## Learn More
+I build digital products from **idea → design → development → deployment (CI/CD).**
 
-To learn more about Next.js, take a look at the following resources:
+I also have **4 years of experience as a Data Analyst**, which gives me a strong product and analytical mindset.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🧩 Featured Projects
 
-## Deploy on Vercel
+### 📱 Mobile Wellness App
+- Built with **Flutter & Firebase**
+- User authentication & cloud data management
+- Published on **Google Play Store**
+- Focus on immersive UX and performance
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 👨‍👩‍👧 Parent-Child Web Platform
+- Full-Stack development with **Symfony & Angular**
+- Complete UX/UI conception
+- Features: forum, activities, content sharing
+- CI/CD pipeline and deployment
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# portfolio-saoussen
->>>>>>> 4b9ade53908b87f3b53efc3ab9fc31910e1d8dd6
+### 🎨 UX Design Product Project
+- 80+ screens designed on **Figma**
+- User flows & interactive prototype
+- Product-oriented design approach
+
+---
+
+## ⚙️ Tech Stack
+
+**Frontend:** Angular, TypeScript, JavaScript, HTML, CSS  
+**Backend:** Symfony, PHP, REST API  
+**Mobile:** Flutter, Firebase  
+**Database:** MySQL, MongoDB  
+**DevOps:** Docker, Jenkins, Git, CI/CD  
+**Design:** Figma, UX Prototyping  
+
+---
+
+## 📬 Contact
+
+- Portfolio: https://portfolio-saoussen.vercel.app/
+- GitHub: https://github.com/SaoussenBayar
+- LinkedIn: https://linkedin.com/in/saoussenRZIG
+- Email: saoussenbayar@gmail.com
+
+---
+
+⭐ Feel free to explore my projects and contact me for opportunities.
